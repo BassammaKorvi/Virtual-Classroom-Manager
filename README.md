@@ -4,29 +4,22 @@
 
 
 A brief description of what this project does and who it's for
-Introduction
 
+Introduction
 
 **Purpose**
 The Virtual Classroom Manager is a terminal-based application designed to manage virtual classrooms, student enrolment, and assignment scheduling and submission for an EdTech platform.
 
-
 **Scope**
 This documentation provides an overview of the project's architecture, setup instructions, usage guide, code structure, functionality, and other relevant information.
-
 
 **Architecture Overview**
 
 
 The application follows the Model-View-Controller (MVC) architecture, where MySQL databases act as the model. Key components include:
 
-
 **Database:** MySQL database named "Virtual_Classrooms" with tables for STUDENTS (studentId, studentName, classroom_name), CLASSROOMS (className), ASSIGNMENTS (classroom_name, AssignmentDetails), SUBMITTED_ASSIGNMENTS (studentId, classroom_name, AssignmentDetails).
-
-
 **Command-Line Interface (CLI):** The terminal-based user interface for interacting with the application.
-
-
 **Java Codebase Connectivity:** The codebase responsible for handling classroom, student, and assignment operations.
 
 ## Tech Stack
