@@ -23,6 +23,8 @@ The application follows the Model-View-Controller (MVC) architecture, where MySQ
 **Command-Line Interface (CLI):** The terminal-based user interface for interacting with the application.
 
 **Java Codebase Connectivity:** The codebase responsible for handling classroom, student, and assignment operations.
+![MVC](https://github.com/BassammaKorvi/Virtual-Classroom-Manager/assets/96287096/f6980bf5-51a6-4160-82ac-e1fca11fc910)
+
 
 ## Tech Stack
 
