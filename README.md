@@ -90,7 +90,7 @@ With these steps completed, your Virtual Classroom Manager should be ready to us
 ## Documentation
 
 
-[Documentation](https://drive.google.com/file/d/17ogTu1rEKFaLk8FX14YyNYnX3o5dpVe4/view?usp=sharing
+[Documentation](https://docs.google.com/document/d/1ipXvEyoQMqGD8bC6IH0ehQmcJJaKV4sT/edit?usp=sharing&ouid=109254172910611221108&rtpof=true&sd=true
 )
 
 
